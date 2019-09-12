@@ -1,4 +1,4 @@
-package practices.easy;
+package easy;
 
 import java.io.*;
 import java.math.*;
